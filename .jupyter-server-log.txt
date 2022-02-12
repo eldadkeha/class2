@@ -1,0 +1,103 @@
+[I 17:10:39.605 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2022-02-12 17:10:40.563 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-12 17:10:40.563 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-12 17:10:40.563 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-12 17:10:40.563 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-12 17:10:40.563 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-12 17:10:40.563 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-12 17:10:40.563 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-12 17:10:40.563 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-02-12 17:10:40.563 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2022-02-12 17:10:40.563 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-12 17:10:40.563 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-02-12 17:10:40.563 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-02-12 17:10:40.573 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2022-02-12 17:10:40.573 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 17:10:40.583 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 17:10:40.585 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 17:10:40.586 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 17:10:40.586 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 17:10:40.586 NotebookApp] http://jupyter-eldadkeha-2dclass2-2djkgpgk0b:8888/user/eldadkeha-class2-jkgpgk0b/?token=...
+[I 17:10:40.586 NotebookApp]  or http://127.0.0.1:8888/user/eldadkeha-class2-jkgpgk0b/?token=...
+[I 17:10:40.586 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 17:10:40.590 NotebookApp] No web browser found: could not locate runnable browser.
+[I 17:10:40.593 NotebookApp] 302 GET /user/eldadkeha-class2-jkgpgk0b/ (10.0.142.14) 0.830000ms
+[I 17:10:40.796 NotebookApp] 302 GET /user/eldadkeha-class2-jkgpgk0b/?token=LVuv64BoRfa971Xp49xdUQ (77.137.14.208) 0.760000ms
+[I 17:10:40.991 NotebookApp] 301 GET /user/eldadkeha-class2-jkgpgk0b/lab/?token=LVuv64BoRfa971Xp49xdUQ (77.137.14.208) 1.440000ms
+[I 17:10:45.328 NotebookApp] 301 GET /user/eldadkeha-class2-jkgpgk0b/static/favicons/favicon.ico (77.137.14.208) 0.510000ms
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 2022-02-12 17:10:48.790 LabApp] Build is up to date
+[I 17:10:53.649 NotebookApp] Creating new notebook in 
+[I 17:10:53.666 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[I 17:10:55.158 NotebookApp] Kernel started: c23d56b4-37bf-4d63-a2a2-bbeafedbbd18, name: python3
+[I 17:10:55.159 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 17:10:55.159 NotebookApp] Culling kernels even with connected clients
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
+[I 17:10:56.348 NotebookApp] Starting buffering for c23d56b4-37bf-4d63-a2a2-bbeafedbbd18:57d2bf3b-d530-47a3-854d-37488a629b09
+[I 17:10:56.981 NotebookApp] 301 GET /user/eldadkeha-class2-jkgpgk0b/static/favicons/favicon-busy-1.ico (77.137.14.208) 0.660000ms
+[I 17:11:07.565 NotebookApp] Uploading file to /data2.csv
+[I 17:11:17.764 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 1
+[I 17:12:54.554 NotebookApp] Saving file at /G2.ipynb
+[I 17:14:16.620 NotebookApp] Uploading file to /G1.ipynb
+[W 17:14:18.340 NotebookApp] 400 GET /user/eldadkeha-class2-jkgpgk0b/api/contents/G1.ipynb?type=notebook&content=1&1644686058525 (77.137.14.208): Unreadable Notebook: /home/jovyan/G1.ipynb FileNotFoundError(2, 'No such file or directory')
+[W 17:14:18.341 NotebookApp] Unreadable Notebook: /home/jovyan/G1.ipynb FileNotFoundError(2, 'No such file or directory')
+[W 17:14:18.341 NotebookApp] 400 GET /user/eldadkeha-class2-jkgpgk0b/api/contents/G1.ipynb?type=notebook&content=1&1644686058525 (77.137.14.208) 2.270000ms referer=https://hub.gke2.mybinder.org/user/eldadkeha-class2-jkgpgk0b/lab
+[W 17:14:26.354 NotebookApp] 400 GET /user/eldadkeha-class2-jkgpgk0b/api/contents/G1.ipynb?type=notebook&content=1&1644686066536 (77.137.14.208): Unreadable Notebook: /home/jovyan/G1.ipynb FileNotFoundError(2, 'No such file or directory')
+[W 17:14:26.354 NotebookApp] Unreadable Notebook: /home/jovyan/G1.ipynb FileNotFoundError(2, 'No such file or directory')
+[W 17:14:26.355 NotebookApp] 400 GET /user/eldadkeha-class2-jkgpgk0b/api/contents/G1.ipynb?type=notebook&content=1&1644686066536 (77.137.14.208) 2.160000ms referer=https://hub.gke2.mybinder.org/user/eldadkeha-class2-jkgpgk0b/lab
+[W 17:14:34.999 NotebookApp] 400 GET /user/eldadkeha-class2-jkgpgk0b/api/contents/G1.ipynb?type=notebook&content=1&1644686075184 (77.137.14.208): Unreadable Notebook: /home/jovyan/G1.ipynb FileNotFoundError(2, 'No such file or directory')
+[W 17:14:34.999 NotebookApp] Unreadable Notebook: /home/jovyan/G1.ipynb FileNotFoundError(2, 'No such file or directory')
+[W 17:14:35.000 NotebookApp] 400 GET /user/eldadkeha-class2-jkgpgk0b/api/contents/G1.ipynb?type=notebook&content=1&1644686075184 (77.137.14.208) 2.420000ms referer=https://hub.gke2.mybinder.org/user/eldadkeha-class2-jkgpgk0b/lab/tree/G2.ipynb
+[W 17:14:40.360 NotebookApp] 400 GET /user/eldadkeha-class2-jkgpgk0b/api/contents/G1.ipynb?type=notebook&content=1&1644686080545 (77.137.14.208): Unreadable Notebook: /home/jovyan/G1.ipynb FileNotFoundError(2, 'No such file or directory')
+[W 17:14:40.360 NotebookApp] Unreadable Notebook: /home/jovyan/G1.ipynb FileNotFoundError(2, 'No such file or directory')
+[W 17:14:40.361 NotebookApp] 400 GET /user/eldadkeha-class2-jkgpgk0b/api/contents/G1.ipynb?type=notebook&content=1&1644686080545 (77.137.14.208) 2.200000ms referer=https://hub.gke2.mybinder.org/user/eldadkeha-class2-jkgpgk0b/lab/tree/G2.ipynb
+[I 17:15:02.262 NotebookApp] Saving file at /G1.ipynb
+[W 17:15:04.609 NotebookApp] 400 GET /user/eldadkeha-class2-jkgpgk0b/api/contents/G1.ipynb?type=notebook&content=1&1644686104794 (77.137.14.208): Unreadable Notebook: /home/jovyan/G1.ipynb FileNotFoundError(2, 'No such file or directory')
+[W 17:15:04.609 NotebookApp] Unreadable Notebook: /home/jovyan/G1.ipynb FileNotFoundError(2, 'No such file or directory')
+[W 17:15:04.609 NotebookApp] 400 GET /user/eldadkeha-class2-jkgpgk0b/api/contents/G1.ipynb?type=notebook&content=1&1644686104794 (77.137.14.208) 2.140000ms referer=https://hub.gke2.mybinder.org/user/eldadkeha-class2-jkgpgk0b/lab/tree/G2.ipynb
+[I 17:15:38.519 NotebookApp] Saving file at /requirements.txt
+[I 17:16:35.534 NotebookApp] Uploading file to /C1G1.ipynb
+[W 17:16:37.907 NotebookApp] Notebook C1G1.ipynb is not trusted
+[I 17:16:38.757 NotebookApp] Kernel started: f391f096-502c-451f-a23d-4fe3a29a3466, name: python3
+[W 17:16:46.658 NotebookApp] delete /G1.ipynb
+[I 17:16:54.992 NotebookApp] Saving file at /G2.ipynb
+[I 17:18:38.354 NotebookApp] Saving file at /C1G1.ipynb
+[I 17:20:38.771 NotebookApp] Saving file at /C1G1.ipynb
+[I 17:22:40.210 NotebookApp] Saving file at /C1G1.ipynb
+[I 17:24:40.630 NotebookApp] Saving file at /C1G1.ipynb
+[I 17:26:41.045 NotebookApp] Saving file at /C1G1.ipynb
+[W 17:26:55.160 NotebookApp] Culling 'idle' kernel 'python3' (c23d56b4-37bf-4d63-a2a2-bbeafedbbd18) with 2 connections due to 614 seconds of inactivity.
+[I 17:26:55.160 NotebookApp] Kernel shutdown: c23d56b4-37bf-4d63-a2a2-bbeafedbbd18
+[I 17:28:41.474 NotebookApp] Saving file at /C1G1.ipynb
+[I 17:32:41.910 NotebookApp] Saving file at /C1G1.ipynb
+[I 17:36:42.523 NotebookApp] Saving file at /C1G1.ipynb
+[I 17:38:43.520 NotebookApp] Saving file at /C1G1.ipynb
+[I 17:44:44.524 NotebookApp] Saving file at /C1G1.ipynb
+[I 17:46:44.941 NotebookApp] Saving file at /C1G1.ipynb
+[I 17:48:45.355 NotebookApp] Saving file at /C1G1.ipynb
+[I 17:50:18.078 NotebookApp] Saving file at /G2.ipynb
+[I 17:50:42.979 NotebookApp] Kernel started: b041f481-8963-44e9-84ce-84570faa2265, name: python3
+[I 17:50:45.794 NotebookApp] Saving file at /C1G1.ipynb
+[I 17:52:18.633 NotebookApp] Saving file at /G2.ipynb
+[I 17:54:19.530 NotebookApp] Saving file at /G2.ipynb
+[I 17:56:20.529 NotebookApp] Saving file at /G2.ipynb
+[W 17:59:55.160 NotebookApp] Culling 'idle' kernel 'python3' (f391f096-502c-451f-a23d-4fe3a29a3466) with 1 connections due to 629 seconds of inactivity.
+[I 17:59:55.161 NotebookApp] Kernel shutdown: f391f096-502c-451f-a23d-4fe3a29a3466
+[I 18:02:22.529 NotebookApp] Saving file at /G2.ipynb
+[I 18:08:25.519 NotebookApp] Saving file at /G2.ipynb
+[I 18:10:26.512 NotebookApp] Saving file at /G2.ipynb
+[W 18:11:55.160 NotebookApp] Culling 'idle' kernel 'python3' (b041f481-8963-44e9-84ce-84570faa2265) with 1 connections due to 637 seconds of inactivity.
+[I 18:11:55.161 NotebookApp] Kernel shutdown: b041f481-8963-44e9-84ce-84570faa2265
+[I 18:16:28.519 NotebookApp] Saving file at /G2.ipynb
+[I 18:16:31.338 NotebookApp] Kernel started: 8e078b43-22cb-4c90-807e-06c1332bf37f, name: python3
+[I 18:18:28.951 NotebookApp] Saving file at /G2.ipynb
+[I 18:20:29.382 NotebookApp] Saving file at /G2.ipynb
+[I 18:28:31.525 NotebookApp] Saving file at /G2.ipynb
+[I 18:30:32.532 NotebookApp] Saving file at /G2.ipynb
+[I 18:34:33.530 NotebookApp] Saving file at /G2.ipynb
+[I 18:36:33.961 NotebookApp] Saving file at /G2.ipynb
